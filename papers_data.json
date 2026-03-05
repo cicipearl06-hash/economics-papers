@@ -1,29 +1,13 @@
 [
   {
-    "id": 1772720284876,
-    "journal": "Journal of Financial Economics",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Market feedback: Evidence from the horse’s mouth",
-    "downloads": 0,
-    "publishDate": "2026-06-01",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "No abstract available",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104255",
-    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104255",
-    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104255"
-  },
-  {
-    "id": 1772720284880,
+    "id": 1772721255438,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
     "quarter": "Q1",
     "title": "Which investors drive anomaly returns and how?",
     "downloads": 0,
-    "publishDate": "2026-05-01",
+    "publishDate": "2026-03-05",
     "abstractCN": "暂无中文摘要",
     "abstractEN": "No abstract available",
     "innovation": "请查看原文了解创新点",
@@ -32,14 +16,14 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104257"
   },
   {
-    "id": 1772720284879,
+    "id": 1772721255437,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
     "quarter": "Q1",
     "title": "Editorial Board",
     "downloads": 0,
-    "publishDate": "2026-05-01",
+    "publishDate": "2026-03-05",
     "abstractCN": "暂无中文摘要",
     "abstractEN": "No abstract available",
     "innovation": "请查看原文了解创新点",
@@ -48,14 +32,14 @@
     "downloadUrl": "https://doi.org/10.1016/s0304-405x(26)00041-3"
   },
   {
-    "id": 1772720284878,
+    "id": 1772721255436,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
     "quarter": "Q1",
     "title": "Liquidity characteristics of market anomalies and institutional trading",
     "downloads": 0,
-    "publishDate": "2026-05-01",
+    "publishDate": "2026-03-05",
     "abstractCN": "暂无中文摘要",
     "abstractEN": "No abstract available",
     "innovation": "请查看原文了解创新点",
@@ -64,14 +48,14 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104254"
   },
   {
-    "id": 1772720284877,
+    "id": 1772721255435,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
     "quarter": "Q1",
     "title": "Innovation spillovers across U.S. tech clusters",
     "downloads": 0,
-    "publishDate": "2026-05-01",
+    "publishDate": "2026-03-05",
     "abstractCN": "暂无中文摘要",
     "abstractEN": "No abstract available",
     "innovation": "请查看原文了解创新点",
@@ -80,7 +64,23 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104264"
   },
   {
-    "id": 1772720329794,
+    "id": 1772721255434,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Market feedback: Evidence from the horse’s mouth",
+    "downloads": 0,
+    "publishDate": "2026-03-05",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104255",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104255",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104255"
+  },
+  {
+    "id": 1772721283065,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -96,7 +96,23 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00849-8"
   },
   {
-    "id": 1772720306872,
+    "id": 1772721264780,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Whistleblowing and Internal Communication",
+    "downloads": 0,
+    "publishDate": "2026-03-04",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  We investigate how incentives provided by whistleblowing programs affect the likelihood of whistleblowing, firm value, and social welfare in the presence of endogenous internal communication. Specifically, we focus on a myopic manager’s ex post decision on internal communication with the employee. An informed employee plays a dual role: working to fix the defect internally or acting as a whistleblower to expose the misconduct if the manager withholds defect information",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2024-0036",
+    "officialUrl": "https://doi.org/10.2308/tar-2024-0036",
+    "downloadUrl": "https://doi.org/10.2308/tar-2024-0036"
+  },
+  {
+    "id": 1772721269814,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -112,7 +128,23 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0561"
   },
   {
-    "id": 1772720272074,
+    "id": 1772721264779,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Disclosure Incentives for Firms in Light of Cross-Ownership",
+    "downloads": 0,
+    "publishDate": "2026-03-03",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  We model two competing firms, each operating through their controlled subsidiaries while also holding a minority financial stake in their rival’s subsidiary. Under such cross-ownership, we derive the firms’ optimal disclosure policies, showing how they are affected by technological spillovers, competitive intensity, and the nature of product markets. The results demonstrate that cross-ownership induces more disclosures, benefiting the firm because disclosures promote t",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2025-0486",
+    "officialUrl": "https://doi.org/10.2308/tar-2025-0486",
+    "downloadUrl": "https://doi.org/10.2308/tar-2025-0486"
+  },
+  {
+    "id": 1772721246151,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -128,7 +160,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2021.02283"
   },
   {
-    "id": 1772720272073,
+    "id": 1772721246150,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -144,7 +176,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.08157"
   },
   {
-    "id": 1772720302078,
+    "id": 1772721267223,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -160,7 +192,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261432198"
   },
   {
-    "id": 1772720302077,
+    "id": 1772721267222,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -176,39 +208,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261432622"
   },
   {
-    "id": 1772720297205,
-    "journal": "Accounting Review",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Whistleblowing and Internal Communication",
-    "downloads": 0,
-    "publishDate": "2026-03-01",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "ABSTRACT\n                  We investigate how incentives provided by whistleblowing programs affect the likelihood of whistleblowing, firm value, and social welfare in the presence of endogenous internal communication. Specifically, we focus on a myopic manager’s ex post decision on internal communication with the employee. An informed employee plays a dual role: working to fix the defect internally or acting as a whistleblower to expose the misconduct if the manager withholds defect information",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.2308/tar-2024-0036",
-    "officialUrl": "https://doi.org/10.2308/tar-2024-0036",
-    "downloadUrl": "https://doi.org/10.2308/tar-2024-0036"
-  },
-  {
-    "id": 1772720297204,
-    "journal": "Accounting Review",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Disclosure Incentives for Firms in Light of Cross-Ownership",
-    "downloads": 0,
-    "publishDate": "2026-03-01",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "ABSTRACT\n                  We model two competing firms, each operating through their controlled subsidiaries while also holding a minority financial stake in their rival’s subsidiary. Under such cross-ownership, we derive the firms’ optimal disclosure policies, showing how they are affected by technological spillovers, competitive intensity, and the nature of product markets. The results demonstrate that cross-ownership induces more disclosures, benefiting the firm because disclosures promote t",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.2308/tar-2025-0486",
-    "officialUrl": "https://doi.org/10.2308/tar-2025-0486",
-    "downloadUrl": "https://doi.org/10.2308/tar-2025-0486"
-  },
-  {
-    "id": 1772720289113,
+    "id": 1772721258953,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -224,7 +224,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhag017"
   },
   {
-    "id": 1772720276200,
+    "id": 1772721249042,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -240,7 +240,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261432971"
   },
   {
-    "id": 1772720276199,
+    "id": 1772721249041,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -256,7 +256,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261432659"
   },
   {
-    "id": 1772720276198,
+    "id": 1772721249040,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -272,7 +272,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261433005"
   },
   {
-    "id": 1772720276201,
+    "id": 1772721249043,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -288,7 +288,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261431239"
   },
   {
-    "id": 1772720272076,
+    "id": 1772721246153,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -304,7 +304,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2025.00535"
   },
   {
-    "id": 1772720272075,
+    "id": 1772721246152,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -320,7 +320,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2025.01366"
   },
   {
-    "id": 1772720312328,
+    "id": 1772721273226,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -336,7 +336,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.18197"
   },
   {
-    "id": 1772720306873,
+    "id": 1772721269815,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -352,7 +352,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0178"
   },
   {
-    "id": 1772720272077,
+    "id": 1772721246154,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -368,7 +368,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.05685"
   },
   {
-    "id": 1772720329796,
+    "id": 1772721283067,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -384,7 +384,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00847-w"
   },
   {
-    "id": 1772720329795,
+    "id": 1772721283066,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -400,7 +400,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00851-0"
   },
   {
-    "id": 1772720312329,
+    "id": 1772721273227,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -416,7 +416,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2024.19036"
   },
   {
-    "id": 1772720329797,
+    "id": 1772721283068,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -432,7 +432,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00848-9"
   },
   {
-    "id": 1772720306874,
+    "id": 1772721269816,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -448,7 +448,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2024.0922"
   },
   {
-    "id": 1772720266584,
+    "id": 1772721243365,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -464,7 +464,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.13495"
   },
   {
-    "id": 1772720329798,
+    "id": 1772721283069,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -480,7 +480,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00852-z"
   },
   {
-    "id": 1772720324268,
+    "id": 1772721278837,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -496,7 +496,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.0463"
   },
   {
-    "id": 1772720319139,
+    "id": 1772721276219,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -512,7 +512,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261428471"
   },
   {
-    "id": 1772720289114,
+    "id": 1772721258954,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -528,7 +528,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf108"
   },
   {
-    "id": 1772720324269,
+    "id": 1772721278838,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -544,7 +544,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2023.0515"
   },
   {
-    "id": 1772720319140,
+    "id": 1772721276220,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -560,7 +560,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261419416"
   },
   {
-    "id": 1772720289116,
+    "id": 1772721258956,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -576,7 +576,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf027"
   },
   {
-    "id": 1772720289115,
+    "id": 1772721258955,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -592,7 +592,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf079"
   },
   {
-    "id": 1772720312330,
+    "id": 1772721273228,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -608,7 +608,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.18224"
   },
   {
-    "id": 1772720280504,
+    "id": 1772721252632,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -624,7 +624,39 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70075"
   },
   {
-    "id": 1772720324270,
+    "id": 1772721243369,
+    "journal": "Journal of Finance",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Dynamic Trading with Realization Utility",
+    "downloads": 0,
+    "publishDate": "2026-02-18",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  An investor receives utility bursts from realizing gains and losses at the individual stock level and dynamically allocates his mental budget between risky and risk‐free assets at the trading account level. Using savings, he reduces his stockholdings and is more willing to realize losses. Using leverage, he increases his stockholdings beyond his mental budget and is more reluctant to realize losses. While leverage strengthens the disposition effect, introducing leverag",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/jofi.13472",
+    "officialUrl": "https://doi.org/10.1111/jofi.13472",
+    "downloadUrl": "https://doi.org/10.1111/jofi.13472"
+  },
+  {
+    "id": 1772721243368,
+    "journal": "Journal of Finance",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "AMERICAN FINANCE ASSOCIATION",
+    "downloads": 0,
+    "publishDate": "2026-02-18",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/jofi.13346",
+    "officialUrl": "https://doi.org/10.1111/jofi.13346",
+    "downloadUrl": "https://doi.org/10.1111/jofi.13346"
+  },
+  {
+    "id": 1772721278839,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -640,7 +672,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.1203"
   },
   {
-    "id": 1772720292384,
+    "id": 1772721261937,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -656,7 +688,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70043"
   },
   {
-    "id": 1772720289117,
+    "id": 1772721258957,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -672,7 +704,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf101"
   },
   {
-    "id": 1772720312332,
+    "id": 1772721273230,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -688,7 +720,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.17601"
   },
   {
-    "id": 1772720312331,
+    "id": 1772721273229,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -704,7 +736,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2024.18654"
   },
   {
-    "id": 1772720302079,
+    "id": 1772721267224,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -720,7 +752,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261427475"
   },
   {
-    "id": 1772720280505,
+    "id": 1772721252633,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -736,7 +768,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70049"
   },
   {
-    "id": 1772720280506,
+    "id": 1772721252634,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -752,7 +784,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70072"
   },
   {
-    "id": 1772720324271,
+    "id": 1772721278840,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -768,7 +800,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2023.0995"
   },
   {
-    "id": 1772720306875,
+    "id": 1772721269817,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -784,7 +816,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2026.servawards.v45.n2"
   },
   {
-    "id": 1772720335938,
+    "id": 1772721286069,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -800,7 +832,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70035"
   },
   {
-    "id": 1772720292385,
+    "id": 1772721261938,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -816,7 +848,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70042"
   },
   {
-    "id": 1772720280507,
+    "id": 1772721252635,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -832,7 +864,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70071"
   },
   {
-    "id": 1772720335939,
+    "id": 1772721286070,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -848,7 +880,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70034"
   },
   {
-    "id": 1772720324272,
+    "id": 1772721278841,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -864,23 +896,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.0641"
   },
   {
-    "id": 1772720297208,
-    "journal": "Accounting Review",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Emerging From the Shadows: Consequences of Position Disclosure in Corporate Bankruptcy",
-    "downloads": 0,
-    "publishDate": "2026-02-09",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "ABSTRACT\n                  I examine how mandatory position disclosure of claimholders’ economic interests affects Chapter 11 bankruptcy outcomes. Exploiting a regulation that increased disclosure by creditors and equityholders on certain committees, I find that position disclosure is associated with a decrease in the length of bankruptcy cases, especially the duration of negotiations between claimholders across classes. Further, I show that position disclosure is associated with lower post-bank",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.2308/tar-2024-0075",
-    "officialUrl": "https://doi.org/10.2308/tar-2024-0075",
-    "downloadUrl": "https://doi.org/10.2308/tar-2024-0075"
-  },
-  {
-    "id": 1772720297207,
+    "id": 1772721264783,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -896,7 +912,23 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2025-0555"
   },
   {
-    "id": 1772720297206,
+    "id": 1772721264782,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Emerging From the Shadows: Consequences of Position Disclosure in Corporate Bankruptcy",
+    "downloads": 0,
+    "publishDate": "2026-02-09",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  I examine how mandatory position disclosure of claimholders’ economic interests affects Chapter 11 bankruptcy outcomes. Exploiting a regulation that increased disclosure by creditors and equityholders on certain committees, I find that position disclosure is associated with a decrease in the length of bankruptcy cases, especially the duration of negotiations between claimholders across classes. Further, I show that position disclosure is associated with lower post-bank",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2024-0075",
+    "officialUrl": "https://doi.org/10.2308/tar-2024-0075",
+    "downloadUrl": "https://doi.org/10.2308/tar-2024-0075"
+  },
+  {
+    "id": 1772721264781,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -912,7 +944,7 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2024-0186"
   },
   {
-    "id": 1772720266585,
+    "id": 1772721243366,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -928,7 +960,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.70022"
   },
   {
-    "id": 1772720319141,
+    "id": 1772721276221,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -944,7 +976,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261421932"
   },
   {
-    "id": 1772720266586,
+    "id": 1772721243367,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -960,7 +992,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.70028"
   },
   {
-    "id": 1772720292386,
+    "id": 1772721261939,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -976,7 +1008,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70041"
   },
   {
-    "id": 1772720319142,
+    "id": 1772721276222,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -992,39 +1024,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392251408114"
   },
   {
-    "id": 1772720266588,
-    "journal": "Journal of Finance",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Dynamic Trading with Realization Utility",
-    "downloads": 0,
-    "publishDate": "2026-02-01",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "ABSTRACT\n                  An investor receives utility bursts from realizing gains and losses at the individual stock level and dynamically allocates his mental budget between risky and risk‐free assets at the trading account level. Using savings, he reduces his stockholdings and is more willing to realize losses. Using leverage, he increases his stockholdings beyond his mental budget and is more reluctant to realize losses. While leverage strengthens the disposition effect, introducing leverag",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.1111/jofi.13472",
-    "officialUrl": "https://doi.org/10.1111/jofi.13472",
-    "downloadUrl": "https://doi.org/10.1111/jofi.13472"
-  },
-  {
-    "id": 1772720266587,
-    "journal": "Journal of Finance",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "AMERICAN FINANCE ASSOCIATION",
-    "downloads": 0,
-    "publishDate": "2026-02-01",
-    "abstractCN": "暂无中文摘要",
-    "abstractEN": "No abstract available",
-    "innovation": "请查看原文了解创新点",
-    "pdfUrl": "https://doi.org/10.1111/jofi.13346",
-    "officialUrl": "https://doi.org/10.1111/jofi.13346",
-    "downloadUrl": "https://doi.org/10.1111/jofi.13346"
-  },
-  {
-    "id": 1772720302081,
+    "id": 1772721267226,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -1040,7 +1040,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261423540"
   },
   {
-    "id": 1772720302080,
+    "id": 1772721267225,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -1056,7 +1056,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261423538"
   },
   {
-    "id": 1772720276202,
+    "id": 1772721249044,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -1072,7 +1072,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261422755"
   },
   {
-    "id": 1772720292387,
+    "id": 1772721261940,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -1088,7 +1088,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70040"
   },
   {
-    "id": 1772720319143,
+    "id": 1772721276223,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -1104,7 +1104,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261417678"
   },
   {
-    "id": 1772720335940,
+    "id": 1772721286071,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -1120,7 +1120,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70033"
   },
   {
-    "id": 1772720306876,
+    "id": 1772721269818,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -1136,7 +1136,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0511"
   },
   {
-    "id": 1772720335941,
+    "id": 1772721286072,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -1152,14 +1152,14 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70031"
   },
   {
-    "id": 1772720335942,
+    "id": 1772721286073,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
     "quarter": "Q1",
     "title": "Issue Information",
     "downloads": 0,
-    "publishDate": "2026-01-01",
+    "publishDate": "2026-01-02",
     "abstractCN": "暂无中文摘要",
     "abstractEN": "No abstract available",
     "innovation": "请查看原文了解创新点",

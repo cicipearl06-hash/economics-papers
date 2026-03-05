@@ -78,9 +78,16 @@ class PaperCrawler:
                 if not title:
                     continue
 
-                pub_date = item.get('published', {}).get('date-parts', [[]])[0]
+                # 优先使用在线发布日期，避免未来的印刷日期
+                pub_date = item.get('published-online', {}).get('date-parts', [[]])[0]
+                if not pub_date:
+                    pub_date = item.get('published', {}).get('date-parts', [[]])[0]
+
                 if pub_date:
                     date_str = f"{pub_date[0]}-{pub_date[1]:02d}-{pub_date[2]:02d}" if len(pub_date) == 3 else f"{pub_date[0]}-{pub_date[1]:02d}-01"
+                    # 如果是未来日期，使用当前日期
+                    if pub_date[0] > datetime.now().year or (pub_date[0] == datetime.now().year and len(pub_date) > 1 and pub_date[1] > datetime.now().month):
+                        date_str = datetime.now().strftime("%Y-%m-%d")
                 else:
                     date_str = datetime.now().strftime("%Y-%m-%d")
 
