@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>经管类A刊论文每日更新</title>
+    <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+    <div class="galaxy-bg"></div>
+
+    <header class="header">
+        <h1>📚 经管类A刊论文库</h1>
+        <p class="subtitle">每日更新 · CSSCI & SSCI 顶级期刊</p>
+
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="🔍 搜索论文标题、关键词..." />
+            <button id="admin-btn" style="margin-left: 1rem; padding: 0.8rem 1.5rem; background: linear-gradient(135deg, #f093fb, #f5576c); border: none; border-radius: 25px; color: white; cursor: pointer; font-size: 0.9rem;">➕ 添加论文</button>
+        </div>
+    </header>
+
+    <main class="container">
+        <aside class="sidebar">
+            <div class="filter-section">
+                <h3>📂 分类筛选</h3>
+
+                <div class="filter-group">
+                    <h4>地区</h4>
+                    <label><input type="radio" name="region" value="all" checked> 全部</label>
+                    <label><input type="radio" name="region" value="domestic"> 国内期刊</label>
+                    <label><input type="radio" name="region" value="foreign"> 国外期刊</label>
+                </div>
+
+                <div class="filter-group">
+                    <h4>分区</h4>
+                    <label><input type="checkbox" class="quarter-filter" value="Q1" checked> Q1区</label>
+                    <label><input type="checkbox" class="quarter-filter" value="Q2" checked> Q2区</label>
+                    <label><input type="checkbox" class="quarter-filter" value="Q3" checked> Q3区</label>
+                    <label><input type="checkbox" class="quarter-filter" value="Q4" checked> Q4区</label>
+                    <label><input type="checkbox" class="quarter-filter" value="CSSCI" checked> CSSCI</label>
+                </div>
+
+                <div class="filter-group">
+                    <h4>期刊</h4>
+                    <select id="journal-select">
+                        <option value="all">全部期刊</option>
+                    </select>
+                </div>
+
+                <button id="reset-filters" class="reset-btn">重置筛选</button>
+            </div>
+
+            <div class="favorites-section">
+                <h3>⭐ 我的收藏 (<span id="fav-count">0</span>)</h3>
+                <button id="show-favorites" class="show-fav-btn">查看收藏</button>
+            </div>
+        </aside>
+
+        <div class="main-content">
+            <div class="results-header">
+                <span id="results-count">加载中...</span>
+            </div>
+            <div id="papers-grid" class="papers-grid"></div>
+        </div>
+    </main>
+
+    <script src="app.js?v=2"></script>
+</body>
+</html>
