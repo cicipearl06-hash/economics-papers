@@ -2,90 +2,37 @@
 # -*- coding: utf-8 -*-
 """
 经管类A刊论文自动更新爬虫
-支持多个期刊网站的自动抓取
+爬取期刊官网公开信息,保证100%真实数据
 """
 
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
 from bs4 import BeautifulSoup
 import time
 import re
-import feedparser
 
 class PaperCrawler:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
         self.papers = []
 
     def fetch_all_journals(self):
-        """抓取所有期刊"""
-        print("🚀 开始抓取论文...")
+        """抓取所有期刊 - 只返回真实数据"""
+        print("🚀 开始抓取论文(只抓取真实数据)...")
 
-        # 国内期刊
-        self.fetch_cnki_journals()
-
-        # 国外期刊 - 使用CrossRef API
+        # 国外期刊 - CrossRef API
         self.fetch_crossref_papers()
+
+        # 国内期刊 - 爬取官网
+        self.fetch_domestic_journals()
 
         return self.papers
 
-    def fetch_cnki_journals(self):
-        """抓取CNKI期刊(通过RSS或API)"""
-        journals = {
-            "管理世界": "GLSJ",
-            "经济研究": "JJYJ",
-            "会计研究": "KJYJ",
-            "金融研究": "JRYJ",
-            "中国工业经济": "ZGJJ",
-            "南开管理评论": "NKGL",
-            "管理科学学报": "GLKX",
-            "中国管理科学": "ZGGL",
-            "审计研究": "SJYJ",
-            "财经研究": "CJYJ",
-            "数量经济技术经济研究": "SLJJ",
-            "世界经济": "SJJJ"
-        }
-
-        for journal_name, code in journals.items():
-            try:
-                print(f"  抓取 {journal_name}...")
-                # 实际需要根据CNKI的API或RSS实现
-                # 这里提供框架
-                papers = self._parse_cnki_journal(journal_name, code)
-                self.papers.extend(papers)
-                time.sleep(2)  # 避免请求过快
-            except Exception as e:
-                print(f"  ❌ {journal_name} 抓取失败: {e}")
-
-    def _parse_cnki_journal(self, journal_name, code):
-        """解析CNKI期刊数据"""
-        # 示例:返回模拟数据
-        # 实际使用时需要实现真实的CNKI API调用
-        today = datetime.now().strftime("%Y-%m-%d")
-
-        return [{
-            "id": int(time.time() * 1000),
-            "journal": journal_name,
-            "level": "CSSCI",
-            "region": "domestic",
-            "quarter": "CSSCI",
-            "title": f"{journal_name}最新论文示例",
-            "downloads": 0,
-            "publishDate": today,
-            "abstractCN": "这是自动抓取的中文摘要",
-            "abstractEN": "This is automatically crawled English abstract",
-            "innovation": "自动识别的创新点",
-            "pdfUrl": f"http://www.cnki.net",
-            "officialUrl": f"http://www.cnki.net",
-            "downloadUrl": f"http://www.cnki.net"
-        }]
-
     def fetch_crossref_papers(self):
-        """使用CrossRef API抓取国外期刊"""
-        # 主要经管类期刊的ISSN
+        """使用CrossRef API抓取国外期刊 - 100%真实数据"""
         journals = {
             "Journal of Finance": "0022-1082",
             "Management Science": "0025-1909",
@@ -111,16 +58,12 @@ class PaperCrawler:
                 self.papers.extend(papers)
                 time.sleep(1)
             except Exception as e:
-                print(f"  ❌ {journal_name} 抓取失败: {e}")
+                print(f"  ❌ {journal_name} 失败: {e}")
 
     def _fetch_from_crossref(self, journal_name, issn):
-        """从CrossRef API获取论文"""
+        """从CrossRef API获取真实论文数据"""
         url = f"https://api.crossref.org/journals/{issn}/works"
-        params = {
-            "rows": 5,
-            "sort": "published",
-            "order": "desc"
-        }
+        params = {"rows": 5, "sort": "published", "order": "desc"}
 
         try:
             response = requests.get(url, params=params, headers=self.headers, timeout=10)
@@ -131,19 +74,16 @@ class PaperCrawler:
             papers = []
 
             for item in data.get('message', {}).get('items', []):
-                # 提取论文信息
                 title = item.get('title', [''])[0]
                 if not title:
                     continue
 
-                # 提取发表日期
                 pub_date = item.get('published', {}).get('date-parts', [[]])[0]
                 if pub_date:
                     date_str = f"{pub_date[0]}-{pub_date[1]:02d}-{pub_date[2]:02d}" if len(pub_date) == 3 else f"{pub_date[0]}-{pub_date[1]:02d}-01"
                 else:
                     date_str = datetime.now().strftime("%Y-%m-%d")
 
-                # 提取摘要
                 abstract = item.get('abstract', '暂无摘要')
 
                 paper = {
@@ -165,30 +105,34 @@ class PaperCrawler:
                 papers.append(paper)
 
             return papers
-
         except Exception as e:
             print(f"    CrossRef API错误: {e}")
             return []
 
+    def fetch_domestic_journals(self):
+        """爬取国内期刊官网 - 需要根据实际网站结构实现"""
+        print("  ⚠️  国内期刊爬虫需要根据各期刊官网结构单独实现")
+        print("  提示：可以爬取《管理世界》《经济研究》等期刊官网的最新目录页")
+        # 示例：爬取期刊官网的最新论文列表
+        # 由于各期刊网站结构不同，这里只提供框架
+        # 用户需要根据实际期刊网站补充具体实现
+
 
 def update_papers_json():
-    """更新论文数据文件"""
+    """更新论文数据文件 - 只保存真实数据"""
     json_file = "papers_data.json"
 
-    # 读取现有数据
     try:
         with open(json_file, 'r', encoding='utf-8') as f:
             existing_papers = json.load(f)
     except FileNotFoundError:
         existing_papers = []
 
-    # 抓取最新论文
     crawler = PaperCrawler()
     new_papers = crawler.fetch_all_journals()
 
-    print(f"\n📊 抓取到 {len(new_papers)} 篇新论文")
+    print(f"\n📊 抓取到 {len(new_papers)} 篇真实论文")
 
-    # 合并数据(去重)
     existing_ids = {p.get('title', '') for p in existing_papers}
     added_count = 0
 
@@ -197,20 +141,18 @@ def update_papers_json():
             existing_papers.insert(0, paper)
             added_count += 1
 
-    # 按时间排序
     existing_papers.sort(key=lambda x: x.get('publishDate', ''), reverse=True)
 
-    # 保存数据
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(existing_papers, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ 更新完成! 新增 {added_count} 篇论文")
+    print(f"✅ 更新完成! 新增 {added_count} 篇真实论文")
     print(f"📚 当前共有 {len(existing_papers)} 篇论文")
 
 
 if __name__ == "__main__":
     print("=" * 50)
-    print("🚀 经管类A刊论文自动更新系统")
+    print("🚀 经管类A刊论文自动更新系统(只抓取真实数据)")
     print("=" * 50)
     update_papers_json()
     print("=" * 50)
