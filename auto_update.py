@@ -84,7 +84,13 @@ class PaperCrawler:
                 else:
                     date_str = datetime.now().strftime("%Y-%m-%d")
 
-                abstract = item.get('abstract', '暂无摘要')
+                # 提取并清理摘要（去除XML标签）
+                abstract_raw = item.get('abstract', '')
+                if abstract_raw:
+                    abstract_clean = re.sub(r'<[^>]+>', '', abstract_raw)
+                    abstract_clean = abstract_clean.strip()
+                else:
+                    abstract_clean = "No abstract available"
 
                 paper = {
                     "id": int(time.time() * 1000) + len(papers),
@@ -95,9 +101,9 @@ class PaperCrawler:
                     "title": title,
                     "downloads": 0,
                     "publishDate": date_str,
-                    "abstractCN": f"来自{journal_name}的最新研究",
-                    "abstractEN": abstract[:200] if abstract else "No abstract available",
-                    "innovation": "国际前沿研究",
+                    "abstractCN": "暂无中文摘要",
+                    "abstractEN": abstract_clean[:500] if len(abstract_clean) > 500 else abstract_clean,
+                    "innovation": "请查看原文了解创新点",
                     "pdfUrl": item.get('URL', ''),
                     "officialUrl": item.get('URL', ''),
                     "downloadUrl": item.get('URL', '')
