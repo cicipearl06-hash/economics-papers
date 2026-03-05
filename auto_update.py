@@ -38,7 +38,15 @@ class PaperCrawler:
             "管理世界": "GLSJ",
             "经济研究": "JJYJ",
             "会计研究": "KJYJ",
-            "金融研究": "JRYJ"
+            "金融研究": "JRYJ",
+            "中国工业经济": "ZGJJ",
+            "南开管理评论": "NKGL",
+            "管理科学学报": "GLKX",
+            "中国管理科学": "ZGGL",
+            "审计研究": "SJYJ",
+            "财经研究": "CJYJ",
+            "数量经济技术经济研究": "SLJJ",
+            "世界经济": "SJJJ"
         }
 
         for journal_name, code in journals.items():
@@ -82,7 +90,18 @@ class PaperCrawler:
             "Journal of Finance": "0022-1082",
             "Management Science": "0025-1909",
             "Journal of Marketing": "0022-2429",
-            "Strategic Management Journal": "0143-2095"
+            "Strategic Management Journal": "0143-2095",
+            "Journal of Financial Economics": "0304-405X",
+            "Review of Financial Studies": "0893-9454",
+            "Journal of Accounting Research": "0021-8456",
+            "Accounting Review": "0001-4826",
+            "Journal of Marketing Research": "0022-2437",
+            "Marketing Science": "0732-2399",
+            "Organization Science": "1047-7039",
+            "Administrative Science Quarterly": "0001-8392",
+            "Academy of Management Journal": "0001-4273",
+            "Journal of International Business Studies": "0047-2506",
+            "Journal of Operations Management": "0272-6963"
         }
 
         for journal_name, issn in journals.items():
