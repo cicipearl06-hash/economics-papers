@@ -32,6 +32,8 @@
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add papers_data.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto
-          update papers $(date +'%Y-%m-%d')"
+          git diff --quiet && git diff --staged --quiet || git commit -m
+  "Auto update papers"
+          git push
+
           git push
