@@ -1,6 +1,6 @@
 [
   {
-    "id": 1772718133699,
+    "id": 1772718759943,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
@@ -16,7 +16,7 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104255"
   },
   {
-    "id": 1772718133703,
+    "id": 1772718759947,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
@@ -32,7 +32,7 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104257"
   },
   {
-    "id": 1772718133702,
+    "id": 1772718759946,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
@@ -48,7 +48,7 @@
     "downloadUrl": "https://doi.org/10.1016/s0304-405x(26)00041-3"
   },
   {
-    "id": 1772718133701,
+    "id": 1772718759945,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
@@ -64,7 +64,7 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104254"
   },
   {
-    "id": 1772718133700,
+    "id": 1772718759944,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
     "region": "foreign",
@@ -80,199 +80,7 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104264"
   },
   {
-    "id": 1772718119470,
-    "journal": "世界经济",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "世界经济最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718117468,
-    "journal": "数量经济技术经济研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "数量经济技术经济研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718115466,
-    "journal": "财经研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "财经研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718113463,
-    "journal": "审计研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "审计研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718111461,
-    "journal": "中国管理科学",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "中国管理科学最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718109459,
-    "journal": "管理科学学报",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "管理科学学报最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718107457,
-    "journal": "南开管理评论",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "南开管理评论最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718105455,
-    "journal": "中国工业经济",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "中国工业经济最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772716812062,
-    "journal": "金融研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "金融研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772716810060,
-    "journal": "会计研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "会计研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772716808057,
-    "journal": "经济研究",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "经济研究最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772716806056,
-    "journal": "管理世界",
-    "level": "CSSCI",
-    "region": "domestic",
-    "quarter": "CSSCI",
-    "title": "管理世界最新论文示例",
-    "downloads": 0,
-    "publishDate": "2026-03-05",
-    "abstractCN": "这是自动抓取的中文摘要",
-    "abstractEN": "This is automatically crawled English abstract",
-    "innovation": "自动识别的创新点",
-    "pdfUrl": "http://www.cnki.net",
-    "officialUrl": "http://www.cnki.net",
-    "downloadUrl": "http://www.cnki.net"
-  },
-  {
-    "id": 1772718155198,
+    "id": 1772718786182,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -288,7 +96,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00849-8"
   },
   {
-    "id": 1772718147723,
+    "id": 1772718774379,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -304,7 +112,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0561"
   },
   {
-    "id": 1772716819135,
+    "id": 1772718750675,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -320,7 +128,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2021.02283"
   },
   {
-    "id": 1772716819134,
+    "id": 1772718750674,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -336,7 +144,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.08157"
   },
   {
-    "id": 1772718145837,
+    "id": 1772718771649,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -352,7 +160,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261432198"
   },
   {
-    "id": 1772718145836,
+    "id": 1772718771648,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -368,7 +176,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261432622"
   },
   {
-    "id": 1772718142410,
+    "id": 1772718768804,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -384,7 +192,7 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2024-0036"
   },
   {
-    "id": 1772718142409,
+    "id": 1772718768803,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -400,7 +208,7 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2025-0486"
   },
   {
-    "id": 1772718137698,
+    "id": 1772718762799,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -416,7 +224,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhag017"
   },
   {
-    "id": 1772716821950,
+    "id": 1772718754648,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -432,7 +240,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261432971"
   },
   {
-    "id": 1772716821949,
+    "id": 1772718754647,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -448,7 +256,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261432659"
   },
   {
-    "id": 1772716821948,
+    "id": 1772718754646,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -464,7 +272,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261433005"
   },
   {
-    "id": 1772716821951,
+    "id": 1772718754649,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -480,7 +288,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261431239"
   },
   {
-    "id": 1772716819138,
+    "id": 1772718750677,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -496,7 +304,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2025.00535"
   },
   {
-    "id": 1772716819136,
+    "id": 1772718750676,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -512,7 +320,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2025.01366"
   },
   {
-    "id": 1772718149177,
+    "id": 1772718777223,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -528,7 +336,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.18197"
   },
   {
-    "id": 1772718147724,
+    "id": 1772718774380,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -544,7 +352,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0178"
   },
   {
-    "id": 1772716819139,
+    "id": 1772718750678,
     "journal": "Management Science",
     "level": "Q1",
     "region": "foreign",
@@ -560,7 +368,7 @@
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.05685"
   },
   {
-    "id": 1772718155200,
+    "id": 1772718786185,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -576,7 +384,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00847-w"
   },
   {
-    "id": 1772718155199,
+    "id": 1772718786184,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -592,7 +400,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00851-0"
   },
   {
-    "id": 1772718149178,
+    "id": 1772718777224,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -608,7 +416,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2024.19036"
   },
   {
-    "id": 1772718155201,
+    "id": 1772718786186,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -624,7 +432,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00848-9"
   },
   {
-    "id": 1772718147725,
+    "id": 1772718774381,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -640,7 +448,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2024.0922"
   },
   {
-    "id": 1772716815950,
+    "id": 1772718747827,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -656,7 +464,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.13495"
   },
   {
-    "id": 1772718155202,
+    "id": 1772718786187,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
     "region": "foreign",
@@ -672,7 +480,7 @@
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00852-z"
   },
   {
-    "id": 1772718153002,
+    "id": 1772718783346,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -688,7 +496,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.0463"
   },
   {
-    "id": 1772718151146,
+    "id": 1772718779939,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -704,7 +512,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261428471"
   },
   {
-    "id": 1772718137699,
+    "id": 1772718762800,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -720,7 +528,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf108"
   },
   {
-    "id": 1772718153003,
+    "id": 1772718783347,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -736,7 +544,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2023.0515"
   },
   {
-    "id": 1772718151147,
+    "id": 1772718779940,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -752,7 +560,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261419416"
   },
   {
-    "id": 1772718137701,
+    "id": 1772718762802,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -768,7 +576,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf027"
   },
   {
-    "id": 1772718137700,
+    "id": 1772718762801,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -784,7 +592,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf079"
   },
   {
-    "id": 1772718149179,
+    "id": 1772718777225,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -800,7 +608,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.18224"
   },
   {
-    "id": 1772716825164,
+    "id": 1772718757373,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -816,7 +624,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70075"
   },
   {
-    "id": 1772718153004,
+    "id": 1772718783348,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -832,7 +640,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.1203"
   },
   {
-    "id": 1772718140104,
+    "id": 1772718766086,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -848,7 +656,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70043"
   },
   {
-    "id": 1772718137702,
+    "id": 1772718762803,
     "journal": "Review of Financial Studies",
     "level": "Q1",
     "region": "foreign",
@@ -864,7 +672,7 @@
     "downloadUrl": "https://doi.org/10.1093/rfs/hhaf101"
   },
   {
-    "id": 1772718149181,
+    "id": 1772718777227,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -880,7 +688,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2023.17601"
   },
   {
-    "id": 1772718149180,
+    "id": 1772718777226,
     "journal": "Organization Science",
     "level": "Q1",
     "region": "foreign",
@@ -896,7 +704,7 @@
     "downloadUrl": "https://doi.org/10.1287/orsc.2024.18654"
   },
   {
-    "id": 1772718145838,
+    "id": 1772718771650,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -912,7 +720,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261427475"
   },
   {
-    "id": 1772716825165,
+    "id": 1772718757374,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -928,7 +736,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70049"
   },
   {
-    "id": 1772716825166,
+    "id": 1772718757375,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -944,7 +752,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70072"
   },
   {
-    "id": 1772718153005,
+    "id": 1772718783349,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -960,7 +768,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2023.0995"
   },
   {
-    "id": 1772718147726,
+    "id": 1772718774382,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -976,7 +784,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2026.servawards.v45.n2"
   },
   {
-    "id": 1772718156915,
+    "id": 1772718789489,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -992,7 +800,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70035"
   },
   {
-    "id": 1772718140105,
+    "id": 1772718766087,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -1008,7 +816,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70042"
   },
   {
-    "id": 1772716825167,
+    "id": 1772718757376,
     "journal": "Strategic Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -1024,7 +832,7 @@
     "downloadUrl": "https://doi.org/10.1002/smj.70071"
   },
   {
-    "id": 1772718156916,
+    "id": 1772718789490,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -1040,7 +848,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70034"
   },
   {
-    "id": 1772718153006,
+    "id": 1772718783350,
     "journal": "Academy of Management Journal",
     "level": "Q1",
     "region": "foreign",
@@ -1056,23 +864,7 @@
     "downloadUrl": "https://doi.org/10.5465/amj.2024.0641"
   },
   {
-    "id": 1772718142413,
-    "journal": "Accounting Review",
-    "level": "Q1",
-    "region": "foreign",
-    "quarter": "Q1",
-    "title": "Expanding Our Insights, Audiences, and Impact",
-    "downloads": 0,
-    "publishDate": "2026-02-09",
-    "abstractCN": "来自Accounting Review的最新研究",
-    "abstractEN": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This essay closely follows my American Accounting Association (AAA) Presidential Scholar Lecture delivered at the Annual Meeting in Chicago ",
-    "innovation": "国际前沿研究",
-    "pdfUrl": "https://doi.org/10.2308/tar-2025-0555",
-    "officialUrl": "https://doi.org/10.2308/tar-2025-0555",
-    "downloadUrl": "https://doi.org/10.2308/tar-2025-0555"
-  },
-  {
-    "id": 1772718142412,
+    "id": 1772718768807,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -1088,7 +880,23 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2024-0075"
   },
   {
-    "id": 1772718142411,
+    "id": 1772718768806,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Expanding Our Insights, Audiences, and Impact",
+    "downloads": 0,
+    "publishDate": "2026-02-09",
+    "abstractCN": "来自Accounting Review的最新研究",
+    "abstractEN": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This essay closely follows my American Accounting Association (AAA) Presidential Scholar Lecture delivered at the Annual Meeting in Chicago ",
+    "innovation": "国际前沿研究",
+    "pdfUrl": "https://doi.org/10.2308/tar-2025-0555",
+    "officialUrl": "https://doi.org/10.2308/tar-2025-0555",
+    "downloadUrl": "https://doi.org/10.2308/tar-2025-0555"
+  },
+  {
+    "id": 1772718768805,
     "journal": "Accounting Review",
     "level": "Q1",
     "region": "foreign",
@@ -1104,7 +912,7 @@
     "downloadUrl": "https://doi.org/10.2308/tar-2024-0186"
   },
   {
-    "id": 1772716815951,
+    "id": 1772718747828,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -1120,7 +928,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.70022"
   },
   {
-    "id": 1772718151148,
+    "id": 1772718779941,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -1136,7 +944,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261421932"
   },
   {
-    "id": 1772716815952,
+    "id": 1772718747829,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -1152,7 +960,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.70028"
   },
   {
-    "id": 1772718140106,
+    "id": 1772718766088,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -1168,7 +976,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70041"
   },
   {
-    "id": 1772718151149,
+    "id": 1772718779942,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -1184,7 +992,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392251408114"
   },
   {
-    "id": 1772716815954,
+    "id": 1772718747831,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -1200,7 +1008,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.13472"
   },
   {
-    "id": 1772716815953,
+    "id": 1772718747830,
     "journal": "Journal of Finance",
     "level": "Q1",
     "region": "foreign",
@@ -1216,7 +1024,7 @@
     "downloadUrl": "https://doi.org/10.1111/jofi.13346"
   },
   {
-    "id": 1772718145840,
+    "id": 1772718771652,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -1232,7 +1040,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261423540"
   },
   {
-    "id": 1772718145839,
+    "id": 1772718771651,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
     "region": "foreign",
@@ -1248,7 +1056,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222437261423538"
   },
   {
-    "id": 1772716821952,
+    "id": 1772718754650,
     "journal": "Journal of Marketing",
     "level": "Q1",
     "region": "foreign",
@@ -1264,7 +1072,7 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261422755"
   },
   {
-    "id": 1772718140107,
+    "id": 1772718766089,
     "journal": "Journal of Accounting Research",
     "level": "Q1",
     "region": "foreign",
@@ -1280,7 +1088,7 @@
     "downloadUrl": "https://doi.org/10.1111/1475-679x.70040"
   },
   {
-    "id": 1772718151150,
+    "id": 1772718779943,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
     "region": "foreign",
@@ -1296,7 +1104,7 @@
     "downloadUrl": "https://doi.org/10.1177/00018392261417678"
   },
   {
-    "id": 1772718156917,
+    "id": 1772718789491,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -1312,7 +1120,7 @@
     "downloadUrl": "https://doi.org/10.1002/joom.70033"
   },
   {
-    "id": 1772718147727,
+    "id": 1772718774383,
     "journal": "Marketing Science",
     "level": "Q1",
     "region": "foreign",
@@ -1328,7 +1136,7 @@
     "downloadUrl": "https://doi.org/10.1287/mksc.2023.0511"
   },
   {
-    "id": 1772718156918,
+    "id": 1772718789492,
     "journal": "Journal of Operations Management",
     "level": "Q1",
     "region": "foreign",
@@ -1342,5 +1150,21 @@
     "pdfUrl": "https://doi.org/10.1002/joom.70031",
     "officialUrl": "https://doi.org/10.1002/joom.70031",
     "downloadUrl": "https://doi.org/10.1002/joom.70031"
+  },
+  {
+    "id": 1772718789493,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Issue Information",
+    "downloads": 0,
+    "publishDate": "2026-01-01",
+    "abstractCN": "来自Journal of Operations Management的最新研究",
+    "abstractEN": "暂无摘要",
+    "innovation": "国际前沿研究",
+    "pdfUrl": "https://doi.org/10.1002/joom.70032",
+    "officialUrl": "https://doi.org/10.1002/joom.70032",
+    "downloadUrl": "https://doi.org/10.1002/joom.70032"
   }
 ]
