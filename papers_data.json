@@ -1,5 +1,21 @@
 [
   {
+    "id": 1772773297456,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The Task Space: An Integrative Framework for Team Research",
+    "downloads": 0,
+    "publishDate": "2026-03-05",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Research on teams spans many contexts, but integrating knowledge from heterogeneous sources is challenging because studies typically examine different tasks that cannot be directly compared. Most investigations involve teams working on just one or a handful of tasks, and researchers lack principled ways to quantify how similar or different these tasks are from one another. We address this challenge by introducing the “Task Space,” a multidimensional space in which tasks—and the distances between",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2023.03544",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2023.03544",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2023.03544"
+  },
+  {
     "id": 1772721255438,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
