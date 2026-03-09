@@ -1,5 +1,21 @@
 [
   {
+    "id": 1773033196163,
+    "journal": "Journal of International Business Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Cross-border effects of US FCPA enforcement: information and institutional spillovers in China through industry peers",
+    "downloads": 0,
+    "publishDate": "2026-03-08",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1057/s41267-026-00845-y",
+    "officialUrl": "https://doi.org/10.1057/s41267-026-00845-y",
+    "downloadUrl": "https://doi.org/10.1057/s41267-026-00845-y"
+  },
+  {
     "id": 1772946055983,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -112,6 +128,22 @@
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104255"
   },
   {
+    "id": 1773033183260,
+    "journal": "Strategic Management Journal",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "AI orchestrator: How recommendation algorithms shape complementor strategy and market equality",
+    "downloads": 0,
+    "publishDate": "2026-03-04",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  \n                    Research Summary\n                    This study investigates how AI recommendation algorithms shape complementor strategies and market equality on digital platforms. Using two quasi‐natural experiments from a food‐sharing platform, we examine impacts of sequential algorithmic upgrades: from a location‐based baseline to popularity‐based (PopRec) and then personalization‐based (PersRec). Analyses of over 1.7 million observations reveal that PopRec dr",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/smj.70073",
+    "officialUrl": "https://doi.org/10.1002/smj.70073",
+    "downloadUrl": "https://doi.org/10.1002/smj.70073"
+  },
+  {
     "id": 1772721283065,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
@@ -142,6 +174,22 @@
     "pdfUrl": "https://doi.org/10.2308/tar-2024-0036",
     "officialUrl": "https://doi.org/10.2308/tar-2024-0036",
     "downloadUrl": "https://doi.org/10.2308/tar-2024-0036"
+  },
+  {
+    "id": 1773033187337,
+    "journal": "Journal of Accounting Research",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Beyond Old Boys' Clubs: Financial Analysts' Utilization of Professional Connections",
+    "downloads": 0,
+    "publishDate": "2026-03-03",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  Women often lack the opportunity to join exclusive social clubs, limiting the benefits they derive from their social networks. We investigate whether, when given the opportunity to interact with the right people in a professional setting, women gain greater advantages from these connections for career performance and advancement compared to men. Using a unique data set that documents when, where, and with whom financial analysts interact at investor conferences, we fin",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/1475-679x.70044",
+    "officialUrl": "https://doi.org/10.1111/1475-679x.70044",
+    "downloadUrl": "https://doi.org/10.1111/1475-679x.70044"
   },
   {
     "id": 1772721269814,
@@ -206,6 +254,22 @@
     "pdfUrl": "https://doi.org/10.1287/mnsc.2024.08157",
     "officialUrl": "https://doi.org/10.1287/mnsc.2024.08157",
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.08157"
+  },
+  {
+    "id": 1773033197332,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Empirical Analyses Using Secondary Supply Chain Data",
+    "downloads": 0,
+    "publishDate": "2026-03-01",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  The increasing availability of secondary data on supply chain relationships has created new opportunities for empirical research in supply chain management. Datasets from sources including Bloomberg SPLC, FactSet, and CompuStat may support empirical analyses of decision‐making, strategic behaviors, governance mechanisms, and dynamics of inter‐organizational relationships of supply chains. However, the complexity and interconnectedness of supply chains and the inconsist",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/joom.70037",
+    "officialUrl": "https://doi.org/10.1002/joom.70037",
+    "downloadUrl": "https://doi.org/10.1002/joom.70037"
   },
   {
     "id": 1772858746543,
@@ -336,6 +400,22 @@
     "downloadUrl": "https://doi.org/10.1177/00222429261433005"
   },
   {
+    "id": 1773033183261,
+    "journal": "Strategic Management Journal",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Regulated versus unregulated competition: How drug shortages boost illegal pharmacy sales",
+    "downloads": 0,
+    "publishDate": "2026-02-27",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  \n                    Research Summary\n                    This study examines how product shortages among legal firms create competitive opportunities for illegal firms. We analyze 713 drug shortages in the United States between 2017 and 2023 and show that shortages substantially increase illicit pharmacies’ sales of affected drugs, which rise by 40.5% during shortages and remain 32.8% higher in the six months after shortages are resolved. The effects are strongest for",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/smj.70078",
+    "officialUrl": "https://doi.org/10.1002/smj.70078",
+    "downloadUrl": "https://doi.org/10.1002/smj.70078"
+  },
+  {
     "id": 1772721249043,
     "journal": "Journal of Marketing",
     "level": "Q1",
@@ -430,6 +510,38 @@
     "pdfUrl": "https://doi.org/10.1287/mnsc.2024.05685",
     "officialUrl": "https://doi.org/10.1287/mnsc.2024.05685",
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.05685"
+  },
+  {
+    "id": 1773033197335,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "When Yes Is a No: Navigating the Façade of Conformity in Continuous Improvement",
+    "downloads": 0,
+    "publishDate": "2026-02-25",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  Continuous Improvement (CI) initiatives are central to operational excellence, emphasizing bottom‐up, team‐based problem‐solving. In practice, however, they are embedded within hierarchical systems that require managerial oversight. This duality introduces a structural tension between empowerment and control, giving rise to a behavioral dynamic that we conceptualize as the façade of conformity (FC) in CI, a defensive impression‐management behavior where team members ou",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/joom.70038",
+    "officialUrl": "https://doi.org/10.1002/joom.70038",
+    "downloadUrl": "https://doi.org/10.1002/joom.70038"
+  },
+  {
+    "id": 1773033197334,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Decision Threshold Setting in Binary Classification Problems—A Behavioral Lens",
+    "downloads": 0,
+    "publishDate": "2026-02-25",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  \n                    When binary classification models are wrong, managers face misclassification costs. Although false positive outcomes imply unnecessary mitigation efforts, false negative outcomes imply overlooking the class of interest. Humans calibrate these\n                    ai\n                    models supporting operational systems by adjusting the decision threshold that translates prediction probability into either class. Results of our controlled laborato",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/joom.70040",
+    "officialUrl": "https://doi.org/10.1002/joom.70040",
+    "downloadUrl": "https://doi.org/10.1002/joom.70040"
   },
   {
     "id": 1772721283067,
