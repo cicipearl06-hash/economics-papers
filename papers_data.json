@@ -1,5 +1,21 @@
 [
   {
+    "id": 1773118862586,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "<scp>\n                      <i>JOM</i>\n                    </scp>\n                    Forum: Theory Testing Is Theory Generation",
+    "downloads": 0,
+    "publishDate": "2026-03-09",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/joom.70039",
+    "officialUrl": "https://doi.org/10.1002/joom.70039",
+    "downloadUrl": "https://doi.org/10.1002/joom.70039"
+  },
+  {
     "id": 1773033196163,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
@@ -254,6 +270,22 @@
     "pdfUrl": "https://doi.org/10.1287/mnsc.2024.08157",
     "officialUrl": "https://doi.org/10.1287/mnsc.2024.08157",
     "downloadUrl": "https://doi.org/10.1287/mnsc.2024.08157"
+  },
+  {
+    "id": 1773118840792,
+    "journal": "Journal of Accounting Research",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Real Effects of Subjectivity in Measuring Fair Values",
+    "downloads": 0,
+    "publishDate": "2026-03-02",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  This study examines how the subjectivity in measuring fair values of assets without readily observable market prices affects investment efficiency and shareholder value. When fair values are objective measures of asset value, they facilitate efficient investment decisions that align with shareholder interests. In contrast, firms' reliance on subjective valuation inputs causes underinvestment in long‐term projects. If fair values are highly subjective, they may lead fir",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/1475-679x.70045",
+    "officialUrl": "https://doi.org/10.1111/1475-679x.70045",
+    "downloadUrl": "https://doi.org/10.1111/1475-679x.70045"
   },
   {
     "id": 1773033197332,
