@@ -1,5 +1,37 @@
 [
   {
+    "id": 1773553399689,
+    "journal": "Journal of Marketing",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "EXPRESS: High Tech, Not Low Touch: Empowering the B2B Sales Force through Online Channel Integration",
+    "downloads": 0,
+    "publishDate": "2026-03-14",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "As many B2B companies are transforming their sales processes by adding online channels to the sales force, it is critical to better understand how salespeople respond, adapt, and manage relationships after customers adopt them. Leveraging data from a large B2B firm, we investigate how customers’ integration of an online channel affects salesperson-customer relationships. We find that customer online channel integration leads to a 7% increase in quarterly customer gross margins, with 28% of a cus",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1177/00222429261436003",
+    "officialUrl": "https://doi.org/10.1177/00222429261436003",
+    "downloadUrl": "https://doi.org/10.1177/00222429261436003"
+  },
+  {
+    "id": 1773553403470,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Asset Overhang and Technological Change",
+    "downloads": 0,
+    "publishDate": "2026-03-13",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Investors face reduced incentives to finance technological change that devalues their legacy investments. We formalize this “asset overhang” and apply our framework to the climate-banking nexus. Leveraging (1) firm-level data on green innovation and diffusion and (2) the sets of product and technology market peers, we implement a shift-share design that identifies banks’ credit facilities impacted by green firm activities. We find that green firms imposing an asset ove",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhaf103",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhaf103",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhaf103"
+  },
+  {
     "id": 1773464539902,
     "journal": "Journal of Operations Management",
     "level": "Q1",
