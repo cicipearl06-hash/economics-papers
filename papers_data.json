@@ -1,5 +1,21 @@
 [
   {
+    "id": 1773640797217,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Machine Learning and the Implementable Efficient Frontier",
+    "downloads": 0,
+    "publishDate": "2026-03-14",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag022",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag022",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag022"
+  },
+  {
     "id": 1773553399689,
     "journal": "Journal of Marketing",
     "level": "Q1",
