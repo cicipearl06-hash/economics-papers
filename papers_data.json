@@ -1,5 +1,37 @@
 [
   {
+    "id": 1774748667854,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Who Bears Flood Risk? Evidence from Mortgage Markets in Florida",
+    "downloads": 0,
+    "publishDate": "2026-03-28",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Government-provided flood insurance contracts have strict coverage limits, leaving some households underinsured against flood risk. This paper exploits these strict coverage limits as well as staggered flood map updates to show that mortgage lenders screen for uninsurable flood risk by requiring lower loan-to-value ratios at origination. This credit rationing leads delinquency rates to equalize inside and outside of flood zones, and shifts the composition of mortgage b",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag030",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag030",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag030"
+  },
+  {
+    "id": 1774748667853,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+    "downloads": 0,
+    "publishDate": "2026-03-28",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Flooding is among the costliest natural disasters in many countries. To protect collateral, many mortgage borrowers in the United States are legally required to maintain flood insurance. However, lax enforcement leads to frequent policy lapses. This paper shows that lenders provide credit contingent on borrowers’ insurance incentives. Exploiting exogenous premium rises ($266 annually) that disincentivize insurance take-up, I find mortgage denial rates dramatically incr",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag031",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag031",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag031"
+  },
+  {
     "id": 1774674837827,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -14,6 +46,22 @@
     "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104281",
     "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104281",
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104281"
+  },
+  {
+    "id": 1774748667855,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Incentivizing Effort and Informing Investment: The Dual Role of Stock Prices",
+    "downloads": 0,
+    "publishDate": "2026-03-27",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Stock prices aggregate investor information about investment opportunities and reflect managerial performance. These dual roles may be in tension: when prices are more informative about investment opportunities, they may be less effective at incentivizing managerial effort. This tradeoff has novel consequences. Lower information costs can lead to both more efficient investment but lower firm value. The principal may strictly prefer to delegate investment to a manager w",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag008",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag008",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag008"
   },
   {
     "id": 1774674851135,
