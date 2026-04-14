@@ -1,5 +1,37 @@
 [
   {
+    "id": 1776131441873,
+    "journal": "Journal of Operations Management",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Is\n                    <scp>AI</scp>\n                    an Algorithm by Any Other Name? Behavioral Reactions to\n                    <scp>AI</scp>\n                    ‐ and Model‐Based Demand Planning Algorithms",
+    "downloads": 0,
+    "publishDate": "2026-04-13",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  With the ongoing deployment of AI algorithms, managers do not know whether existing demand planning processes account for possible differences in human behavior when using AI‐based systems in comparison to legacy model‐based systems. This study examines how human behavior may differ when performing demand forecasting tasks due to the disclosure of algorithm type (AI or model) along with associated algorithm performance (low and improving). Using signaling theory, we hy",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1002/joom.70045",
+    "officialUrl": "https://doi.org/10.1002/joom.70045",
+    "downloadUrl": "https://doi.org/10.1002/joom.70045"
+  },
+  {
+    "id": 1776131420987,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Mandatory Information Exchange, Cross-Border Income Shifting, and the Physical Flow of Tangible Goods",
+    "downloads": 0,
+    "publishDate": "2026-04-13",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  We examine whether mandatory tax information exchange agreements between governments have real effects on firms’ physical trade in tangible goods. We posit that some of the physical trade in tangible goods flowing through low-tax jurisdictions is intended to facilitate income shifting. As such, shocks to enforcement via mandatory information exchange agreements could cause firms to change the physical flow of goods. Using firm-level shipping container data, we find tha",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2024-0525",
+    "officialUrl": "https://doi.org/10.2308/tar-2024-0525",
+    "downloadUrl": "https://doi.org/10.2308/tar-2024-0525"
+  },
+  {
     "id": 1776045297121,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -14,6 +46,22 @@
     "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104283",
     "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104283",
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104283"
+  },
+  {
+    "id": 1776131433455,
+    "journal": "Administrative Science Quarterly",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "A Curation Approach to Identity Management: The Costs of Combining Identity Expression and Suppression",
+    "downloads": 0,
+    "publishDate": "2026-04-12",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Many organizations want to increase diversity among their workforce, but employees from marginalized groups consistently face uncertainty about how to navigate their identities at work, which can lead to high turnover among these employees. To highlight the unexpected ways in which such risks can arise for employees and organizations, we investigate the intrapersonal consequences of a curation approach to navigating social identities in the workplace. Curation involves frequent identity expressi",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1177/00018392261431827",
+    "officialUrl": "https://doi.org/10.1177/00018392261431827",
+    "downloadUrl": "https://doi.org/10.1177/00018392261431827"
   },
   {
     "id": 1775870777202,
