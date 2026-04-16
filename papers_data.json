@@ -1,5 +1,37 @@
 [
   {
+    "id": 1776304481909,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Sustainable investing and market governance",
+    "downloads": 0,
+    "publishDate": "2026-04-16",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104273",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104273",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104273"
+  },
+  {
+    "id": 1776304483077,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Voting and Trading on Public Information",
+    "downloads": 0,
+    "publishDate": "2026-04-13",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  This paper studies how public information, such as proxy advice, affects shareholder voting and, thus, corporate decision-making. We find that while public information improves the voting decisions of uninformed shareholders, it also induces privately informed shareholders to exit rather than to exercise their voice (vote). As a result, public information impairs information aggregation by voting but improves information aggregation by trading. Overall, public informat",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag035",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag035",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag035"
+  },
+  {
     "id": 1776217593121,
     "journal": "Journal of Marketing Research",
     "level": "Q1",
@@ -926,6 +958,22 @@
     "pdfUrl": "https://doi.org/10.1111/jofi.70033",
     "officialUrl": "https://doi.org/10.1111/jofi.70033",
     "downloadUrl": "https://doi.org/10.1111/jofi.70033"
+  },
+  {
+    "id": 1776304493577,
+    "journal": "Academy of Management Journal",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Siloed Sustainability: How Paradox Management Unravels in Integrative Practice Implementation",
+    "downloads": 0,
+    "publishDate": "2026-04-01",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.5465/amj.2023.0548",
+    "officialUrl": "https://doi.org/10.5465/amj.2023.0548",
+    "downloadUrl": "https://doi.org/10.5465/amj.2023.0548"
   },
   {
     "id": 1775179739181,
