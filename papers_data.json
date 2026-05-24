@@ -1,5 +1,21 @@
 [
   {
+    "id": 1779589895532,
+    "journal": "Journal of International Business Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Post-springboard growth of EMNEs: an asset orchestration perspective",
+    "downloads": 0,
+    "publishDate": "2026-05-23",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1057/s41267-026-00875-6",
+    "officialUrl": "https://doi.org/10.1057/s41267-026-00875-6",
+    "downloadUrl": "https://doi.org/10.1057/s41267-026-00875-6"
+  },
+  {
     "id": 1779502353601,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -30,6 +46,38 @@
     "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104309",
     "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104309",
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104309"
+  },
+  {
+    "id": 1779589879755,
+    "journal": "Journal of Finance",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles",
+    "downloads": 0,
+    "publishDate": "2026-05-22",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  \n                    We show that FX interventions can be effective, particularly in attenuating global financial spillovers. We exploit global financial shocks and Brazilian central bank interventions in FX derivatives using three matched administrative registers: bank credit (to firms), foreign credit to banks, and employer‐employees. After the U.S. Taper Tantrum (followed by emerging markets' FX turbulence), Brazilian banks with more foreign debt cut credit supply, ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/jofi.70054",
+    "officialUrl": "https://doi.org/10.1111/jofi.70054",
+    "downloadUrl": "https://doi.org/10.1111/jofi.70054"
+  },
+  {
+    "id": 1779589879752,
+    "journal": "Journal of Finance",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Quote Competition in Corporate Bonds",
+    "downloads": 0,
+    "publishDate": "2026-05-22",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  Dealer quotes in corporate bonds, though indicative, lower trading costs and increase trading volume. Dealers offering higher quality quotes attract more order flow and execute trades at favorable prices. Dealers advertise quotes to manage their inventories and attract orders from nonrelationship clients. However, quote competition is imperfect. The best quotes often fail to attract orders, and trade‐throughs are common. Nevertheless, quote competition is important as ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/jofi.70048",
+    "officialUrl": "https://doi.org/10.1111/jofi.70048",
+    "downloadUrl": "https://doi.org/10.1111/jofi.70048"
   },
   {
     "id": 1779502354960,
