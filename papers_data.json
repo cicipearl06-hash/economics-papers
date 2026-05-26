@@ -1,5 +1,21 @@
 [
   {
+    "id": 1779762569602,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "When Location Shapes Choice: Placement Optimization of Substitutable Products",
+    "downloads": 0,
+    "publishDate": "2026-05-25",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Strategic product placement can have a strong influence on customer purchase behavior in physical stores as well as online platforms. Motivated by this, we consider the problem of optimizing the placement of substitutable products in designated display locations to maximize the expected revenue of the seller. We model the customer behavior as a two-stage process: first, the customer visits a subset of display locations according to a browsing distribution; and second, the customer chooses at mos",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2023.03826",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2023.03826",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2023.03826"
+  },
+  {
     "id": 1779676801436,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
