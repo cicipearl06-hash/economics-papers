@@ -1,5 +1,37 @@
 [
   {
+    "id": 1781232291360,
+    "journal": "Academy of Management Journal",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Trauma at Work: Reframing Experiences to Sustain Engagement",
+    "downloads": 0,
+    "publishDate": "2026-06-11",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.5465/amj.2023.1101",
+    "officialUrl": "https://doi.org/10.5465/amj.2023.1101",
+    "downloadUrl": "https://doi.org/10.5465/amj.2023.1101"
+  },
+  {
+    "id": 1781232260788,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Fund Flows, Liquidity, and Asset Prices",
+    "downloads": 0,
+    "publishDate": "2026-06-11",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Unexpected fund flows may force mutual funds to liquidate assets, thereby depressing demand for securities that become illiquid during outflows. This paper shows that the liquidity beta on flows—defined as the comovement of a security’s liquidity costs with aggregate fund flow shocks—earns a significant risk premium in corporate bonds using firm-month fixed effects and a granular instrumental variables approach. The liquidity beta varies substantially even among bonds issued by the same firm and",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2025.01690",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2025.01690",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2025.01690"
+  },
+  {
     "id": 1781146107801,
     "journal": "Journal of Operations Management",
     "level": "Q1",
