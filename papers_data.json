@@ -1,5 +1,21 @@
 [
   {
+    "id": 1781491995206,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The Variance Premium and Seasonal Momentum in Option Returns",
+    "downloads": 0,
+    "publishDate": "2026-06-13",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  We develop a model-free measure of the variance premium by constructing option portfolios whose returns are highly correlated with realized stock variance. This effectively decomposes returns into realized variance minus implied variance. We apply this decomposition to document a novel quarterly cross-sectional continuation pattern in both realized variance and implied variance of individual stocks. Implied variance underanticipates the seasonality of realized variance",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag057",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag057",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag057"
+  },
+  {
     "id": 1781405333683,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
