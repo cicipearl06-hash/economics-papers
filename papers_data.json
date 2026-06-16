@@ -1,5 +1,37 @@
 [
   {
+    "id": 1781578476539,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Using Neural Networks to Guide Data-Driven Operational Decisions",
+    "downloads": 0,
+    "publishDate": "2026-06-15",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "We propose deep neural networks for data-driven stochastic optimization. Using historical data (covariates, decisions, costs), we propose to train a neural network to predict the objective value as a function of both the decision and covariate. After training, for a given covariate, this predicted objective is optimized over the decision variables using gradient-based methods with analytical gradients and Hessians. Performance is characterized by neural network generalization bounds. Comprehensi",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2023.04141",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2023.04141",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2023.04141"
+  },
+  {
+    "id": 1781578476538,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Information Design of Online Platforms",
+    "downloads": 0,
+    "publishDate": "2026-06-15",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "We study how an online platform strategically uses information to both guide consumer search and influence sellers’ targeted advertising. Our model unifies personalized recommendations and targeted ads under an information design framework. We illustrate a fundamental tradeoff facing the platform between improving match efficiency and extracting seller surplus by inducing their competition for prominence. The optimal information design may be socially inefficient because it balances the tradeoff",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2025.03083",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2025.03083",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2025.03083"
+  },
+  {
     "id": 1781491995206,
     "journal": "Review of Financial Studies",
     "level": "Q1",
