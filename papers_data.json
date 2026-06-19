@@ -1,5 +1,37 @@
 [
   {
+    "id": 1781839900684,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Blended finance",
+    "downloads": 0,
+    "publishDate": "2026-06-19",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104321",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104321",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104321"
+  },
+  {
+    "id": 1781839918243,
+    "journal": "Journal of International Business Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The two Coases of green governance: multinational enterprises and the internalization of environmental externalities through green innovation",
+    "downloads": 0,
+    "publishDate": "2026-06-18",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Green governance aims to resolve environmental externalities at minimum cost. By uniting Coase's two foundational theories (Economica 4: 386–405, 1937; J Law Econ 3: 1–44, 1960) we reframe MNEs not merely as profit-seeking entities but as transnational institutions capable of internalizing environmental externalities through green innovation across borders. We show how national environmental regulation spurs subsidiary-level green patenting with profit spillovers into ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1057/s41267-026-00872-9",
+    "officialUrl": "https://doi.org/10.1057/s41267-026-00872-9",
+    "downloadUrl": "https://doi.org/10.1057/s41267-026-00872-9"
+  },
+  {
     "id": 1781750794963,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -14,6 +46,22 @@
     "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104322",
     "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104322",
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104322"
+  },
+  {
+    "id": 1781839904765,
+    "journal": "Journal of Accounting Research",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Consensus? An Examination of Differences in Earnings Information Across Forecast Data Providers",
+    "downloads": 0,
+    "publishDate": "2026-06-17",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implicatio",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/1475-679x.70072",
+    "officialUrl": "https://doi.org/10.1111/1475-679x.70072",
+    "downloadUrl": "https://doi.org/10.1111/1475-679x.70072"
   },
   {
     "id": 1781750808488,
