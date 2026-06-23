@@ -1,5 +1,37 @@
 [
   {
+    "id": 1782181812745,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Asymmetric thin markets",
+    "downloads": 0,
+    "publishDate": "2026-06-23",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104319",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104319",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104319"
+  },
+  {
+    "id": 1782181801213,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The Spillover Effect of Social Capital Along the Supply Chain: Evidence from the Cost of Debt",
+    "downloads": 0,
+    "publishDate": "2026-06-22",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Prior research indicates that social capital constrains opportunistic behavior and facilitates cooperation in bilateral relationships. We hypothesize that firms conducting business with high social capital customers are perceived by their banks as having lower supply chain risk and document a negative association between suppliers’ loan spreads and the social capital of their major customers. Our cross-sectional analyses show that the negative association is stronger when (1) suppliers make more",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.04778",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.04778",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.04778"
+  },
+  {
     "id": 1782096946387,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
@@ -46,6 +78,22 @@
     "pdfUrl": "https://doi.org/10.1057/s41267-026-00873-8",
     "officialUrl": "https://doi.org/10.1057/s41267-026-00873-8",
     "downloadUrl": "https://doi.org/10.1057/s41267-026-00873-8"
+  },
+  {
+    "id": 1782181814505,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Can Discount Window Stigma Be Cured? An Experimental Investigation",
+    "downloads": 0,
+    "publishDate": "2026-06-19",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consisten",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag013",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag013",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag013"
   },
   {
     "id": 1782010325958,
