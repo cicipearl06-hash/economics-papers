@@ -1,5 +1,21 @@
 [
   {
+    "id": 1782354772932,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "ESG and the Stock Market: Is ESG Exposure Systematic?",
+    "downloads": 0,
+    "publishDate": "2026-06-24",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "We study the relation between firms’ environmental, social, and governance (ESG) performance and the aggregate stock market returns. Based on 38 individual ESG measures, we construct a market-level ESG index. With both the traditional predictive regression approach and two recently developed machine-learning methods, we find that the ESG index has strong and positive predictive power on the market both in- and out-of-sample, and both the cash flow and discount rate channels are the economic driv",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.07169",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.07169",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.07169"
+  },
+  {
     "id": 1782268294229,
     "journal": "Organization Science",
     "level": "Q1",
