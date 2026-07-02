@@ -1,5 +1,37 @@
 [
   {
+    "id": 1782959506897,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Gambling away stability: Sports betting’s impact on vulnerable households",
+    "downloads": 0,
+    "publishDate": "2026-07-02",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104330",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104330",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104330"
+  },
+  {
+    "id": 1782959516019,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Too Good to Be True: Look-Ahead Bias in Empirical Options Research",
+    "downloads": 0,
+    "publishDate": "2026-06-30",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating fr",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag061",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag061",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag061"
+  },
+  {
     "id": 1782786998096,
     "journal": "Organization Science",
     "level": "Q1",
