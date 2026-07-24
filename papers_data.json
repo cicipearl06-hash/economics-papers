@@ -1,5 +1,37 @@
 [
   {
+    "id": 1784858072971,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "The Evolving Make-or-Buy Decision: Strategic Concurrent Sourcing and Capacity Choice",
+    "downloads": 0,
+    "publishDate": "2026-07-23",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  The once binary make-or-buy choice in firms’ sourcing has evolved in recent years into what is often a make-and-buy decision where the same input is both produced internally and procured externally. This paper presents a novel explanation for concurrent sourcing, one rooted in firms’ strategic positioning and intrinsically tied to their capacity choices. In our setting, a firm that chooses solely to make internally maximizes cost savings but prices away efficiency gain",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2025-0280",
+    "officialUrl": "https://doi.org/10.2308/tar-2025-0280",
+    "downloadUrl": "https://doi.org/10.2308/tar-2025-0280"
+  },
+  {
+    "id": 1784858063299,
+    "journal": "Journal of Finance",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Do Equity and Options Markets Agree about Volatility?",
+    "downloads": 0,
+    "publishDate": "2026-07-23",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  We derive tight pricing kernel restrictions from options with same‐day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo‐arbitrage opportunities, characterized by nontrivial reward‐to‐risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1111/jofi.70070",
+    "officialUrl": "https://doi.org/10.1111/jofi.70070",
+    "downloadUrl": "https://doi.org/10.1111/jofi.70070"
+  },
+  {
     "id": 1784771931181,
     "journal": "Journal of International Business Studies",
     "level": "Q1",
