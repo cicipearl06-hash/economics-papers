@@ -1,5 +1,37 @@
 [
   {
+    "id": 1787979321595,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA’s Medical Device Clearance Policy",
+    "downloads": 0,
+    "publishDate": "2026-08-28",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "The United States Food and Drug Administration (FDA)’s 510(k) pathway allows manufacturers to gain medical device approval by demonstrating substantial equivalence to a legally marketed device. However, the inherent ambiguity of this regulatory procedure has been associated with high recall among many devices cleared through this pathway, raising significant safety concerns. In this paper, we develop a combined human-algorithm approach to assist the FDA in improving its 510(k) medical device cle",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.06477",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.06477",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.06477"
+  },
+  {
+    "id": 1787979321594,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Public Enforcement and Initial Public Offering Reporting Quality in Weak Institutional Environments: Evidence from a Random Experiment in China",
+    "downloads": 0,
+    "publishDate": "2026-08-28",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Using China’s randomized pre-initial public offering on-site inspection program, we examine the causal effects of proactive public enforcement on the financial reporting quality of initial public offering applicants. Our analysis shows that the program enhances the reporting quality of selected applicants by screening out firms with questionable financial disclosures. More importantly, it generates a significant deterrence effect, discouraging future applicants from submitting low-quality financ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.05042",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.05042",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.05042"
+  },
+  {
     "id": 1787904569427,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
