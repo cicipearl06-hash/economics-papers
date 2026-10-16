@@ -1,5 +1,37 @@
 [
   {
+    "id": 1792117518992,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Retail on Wheels: A Time-Sensitive Traveling Salesman Problem",
+    "downloads": 0,
+    "publishDate": "2026-10-15",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Rapid advancement in self-driving technology has brought mobile retail into the spotlight. Motivated by its potential, we present a model, theory, and insights into the operations of mobile retail, where a fleet of wheeled stores traverses a service region, selectively seeks locations in which to perch, and fulfills local customer demand. The goal of retailers is to strike a balance between perching and migrating to maximize total revenue. To dispatch such stores, retailers need to consider the ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2023.04259",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2023.04259",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2023.04259"
+  },
+  {
+    "id": 1792117518991,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Shipment Monitoring, Allocation, and the Impact on Food Waste",
+    "downloads": 0,
+    "publishDate": "2026-10-15",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Often advocated for the potential to reduce waste in fresh produce supply chains, sensor technologies enable firms to monitor the condition of each product unit and allocate them to markets at different transportation distances, thereby matching units with shorter shelf lives with closer markets. In this paper, we consider a firm purchasing and transporting a fresh produce product for sale in two destination markets. Postharvest processes cause a proportion of the product to be in risky conditio",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.07382",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.07382",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.07382"
+  },
+  {
     "id": 1792031473219,
     "journal": "Marketing Science",
     "level": "Q1",
