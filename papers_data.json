@@ -1,5 +1,21 @@
 [
   {
+    "id": 1792550397929,
+    "journal": "Accounting Review",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Balancing Act: How Unaffiliated Analysts Navigate Private Information Disadvantages",
+    "downloads": 0,
+    "publishDate": "2026-10-20",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "ABSTRACT\n                  Using analyst-lender affiliation in syndicated loans as a proxy for differential access to private information, we examine how unaffiliated analysts respond to this disadvantage. We find that unaffiliated analysts are more likely to herd toward affiliated analysts following loan origination, leading to improved forecast accuracy but weaker market reactions, consistent with reduced information content. In addition, herding analysts improve their forecast accuracy for ot",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.2308/tar-2025-0183",
+    "officialUrl": "https://doi.org/10.2308/tar-2025-0183",
+    "downloadUrl": "https://doi.org/10.2308/tar-2025-0183"
+  },
+  {
     "id": 1792464352557,
     "journal": "Journal of Financial Economics",
     "level": "Q1",
@@ -14,6 +30,22 @@
     "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104387",
     "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104387",
     "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104387"
+  },
+  {
+    "id": 1792550395391,
+    "journal": "Review of Financial Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "How Private Equity Fuels Nonbank Lending",
+    "downloads": 0,
+    "publishDate": "2026-10-19",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  We demonstrate how private equity (PE) promotes nonbank lending by substituting for bank monitoring. Relative to non-PE-backed loans, PE-backed loans exhibit lower bank monitoring, smaller loan shares retained by lead banks, and larger shares held by nonbanks. The substitution is strongest when sponsors have greater incentives to engage with portfolio firms, is not associated with weaker loan performance, and persists during borrower distress. Our findings suggest that",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1093/rfs/hhag092",
+    "officialUrl": "https://doi.org/10.1093/rfs/hhag092",
+    "downloadUrl": "https://doi.org/10.1093/rfs/hhag092"
   },
   {
     "id": 1792464360214,
