@@ -1,5 +1,21 @@
 [
   {
+    "id": 1794288308290,
+    "journal": "Journal of International Business Studies",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "When AI thinks about culture: comparing language-based and empirical measures of individualism–collectivism",
+    "downloads": 0,
+    "publishDate": "2026-11-09",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Abstract\n                  \n                    Large language models (LLMs) are increasingly used to generate cultural insights, yet little is known about their cultural expertise and the extent to which their outputs replicate or correct for cultural stereotypes. This study compares country-level estimates of individualism–collectivism (I-C) derived from five different LLMs with a recently validated I-C index based on nationally representative surveys. The LLM-based estimates correlate highly ",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1057/s41267-026-00913-3",
+    "officialUrl": "https://doi.org/10.1057/s41267-026-00913-3",
+    "downloadUrl": "https://doi.org/10.1057/s41267-026-00913-3"
+  },
+  {
     "id": 1794023559255,
     "journal": "Administrative Science Quarterly",
     "level": "Q1",
