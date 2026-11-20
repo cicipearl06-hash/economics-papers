@@ -1,5 +1,37 @@
 [
   {
+    "id": 1795150798887,
+    "journal": "Journal of Financial Economics",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Time-series efficient factors",
+    "downloads": 0,
+    "publishDate": "2026-11-20",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "No abstract available",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1016/j.jfineco.2026.104395",
+    "officialUrl": "https://doi.org/10.1016/j.jfineco.2026.104395",
+    "downloadUrl": "https://doi.org/10.1016/j.jfineco.2026.104395"
+  },
+  {
+    "id": 1795150795345,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Sample Range as Subjective Variability and Implications for Experience-Based Decision Making",
+    "downloads": 0,
+    "publishDate": "2026-11-19",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Variance and standard deviation are common metrics of statistical variability in the management and decision-making literature. In everyday contexts, however, information about sample range prevails. Range is arguably easier to comprehend and compute than variance, yet it often yields equivalent judgments about variability. Hence, we reason that decision makers often rely on range to judge variability. We test this hypothesis across four behavioral experiments (total n = 1,093). When comparing t",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2024.05050",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2024.05050",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2024.05050"
+  },
+  {
     "id": 1795065199329,
     "journal": "Academy of Management Journal",
     "level": "Q1",
