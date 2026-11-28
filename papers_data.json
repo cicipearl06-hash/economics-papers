@@ -1,5 +1,37 @@
 [
   {
+    "id": 1795844372000,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Does FinTech Innovation Improve Traditional Banks’ Operating Efficiency and Risk? Empirical Evidence from Patent Filings",
+    "downloads": 0,
+    "publishDate": "2026-11-27",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "We empirically examine the link between bank-specific innovations in financial technology (FinTech) and traditional banks’ fundamentals. We propose a new measure for FinTech innovation as the textual similarity of banks’ patent filings to standard FinTech policy documents. We show that FinTech innovation implies enhanced efficiency, profitability, and operating capacity (e.g., cost management, funding and lending activity). FinTech also ameliorates banks’ risk measures, including overall risk (Z",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2025.03691",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2025.03691",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2025.03691"
+  },
+  {
+    "id": 1795844371999,
+    "journal": "Management Science",
+    "level": "Q1",
+    "region": "foreign",
+    "quarter": "Q1",
+    "title": "Payout Taxes Matter: The Financing R&amp;D Mechanism",
+    "downloads": 0,
+    "publishDate": "2026-11-27",
+    "abstractCN": "暂无中文摘要",
+    "abstractEN": "Higher taxes on corporate payouts increase the cost of financing with stock issues. As a result, corporate investments that rely on external equity financing should be particularly sensitive to payout tax rates. A large literature shows that firms rely extensively on stock issues to fund research and development (R&amp;D), suggesting that the financing of R&amp;D is a potentially important microlevel mechanism linking payout taxation with real corporate activity. We document a robust negative as",
+    "innovation": "请查看原文了解创新点",
+    "pdfUrl": "https://doi.org/10.1287/mnsc.2023.03394",
+    "officialUrl": "https://doi.org/10.1287/mnsc.2023.03394",
+    "downloadUrl": "https://doi.org/10.1287/mnsc.2023.03394"
+  },
+  {
     "id": 1795759092939,
     "journal": "Organization Science",
     "level": "Q1",
